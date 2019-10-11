@@ -11,7 +11,7 @@ class Home extends Component {
 					<h1>
 						Lorem ipsum <span>dolor</span>
 					</h1>
-					<h2>Excepteur sint occaecat cupidatat</h2>
+					<h2>This is a change</h2>
 					<h3>
 						Lacus vel facilisis volutpat est velit egestas dui. Pellentesque
 						elit ullamcorper dignissim cras tincidunt. Tincidunt lobortis
